@@ -51,6 +51,7 @@ Projection   : 50.40% over 24h ≈ $252.00 on $500 margin
 - Longs pay when the perp trades above the underlying; shorts pay below.
 
 Full write-up with worked examples:
+- [Funding cost forecaster: full arithmetic + worked examples](https://brainresearchhub.net/research/perps/funding-cost-forecaster)
 **[Funding rate mechanics — BrainResearchHub](https://brainresearchhub.net/research/perps/polymarket-perps-funding-rate)**
 
 Related research from the same author:
